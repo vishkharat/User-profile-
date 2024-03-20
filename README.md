@@ -38,14 +38,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-- [Manny](https://github.com/manny-profile)
+- [Manny](https://github.com/vishkharat)
 
 ## Connect with Manny
 
-- [LinkedIn](https://www.linkedin.com/in/manny-profile/)
-- [Twitter](https://twitter.com/manny_profile)
-- [Portfolio Website](https://www.mannyportfolio.com/)
-
+- [LinkedIn](https://www.linkedin.com/in/vishal-kharat-19a0bb288/)
+- [Twitter](https://twitter.com/VishalK34668809)
+- [instagram](https://www.instagram.com/stubborn_v_i_s_h/)
 ---
 
 © 2024 Web Development with Manny. All rights reserved.
