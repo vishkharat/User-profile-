@@ -1,4 +1,4 @@
-# User Profile
+# User Profile 
 
 This repository contains the source code for a user profile page created by Manny, a full-stack developer.
 
